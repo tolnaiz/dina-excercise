@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  connectable_id: 1
+  connectable_type: User
+  permission_id: 1
+
+two:
+  connectable_id: 1
+  connectable_type: Role
+  permission_id: 1
